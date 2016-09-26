@@ -1,0 +1,22 @@
+{
+    "name": "neesan-dark",
+    "displayName": "Neesan Dark",
+    "description": "Neesan Dark theme",
+    "version": "0.0.1",
+    "publisher": "syaiful6",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neesan Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeesanDark.tmTheme"
+            }
+        ]
+    }
+}
